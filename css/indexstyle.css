@@ -1,0 +1,368 @@
+.background {
+    width: 1440px;
+    height: 3608.55px;
+    background-color: #FFFFFF;
+}
+
+.bg {
+    position: absolute;
+    width: 1400px;
+    height: 849.43px;
+    left: 0px;
+    top: 0px;
+    background-color: #344235;
+}
+
+.logo {
+    position: absolute;
+    width: 311.59px;
+    height: 43.1px;
+    left: 20px;
+    top: 58.92px;
+}
+
+.nav {
+    position: absolute;
+    width: 713.3px;
+    height: 52px;
+    left: 780px;
+    top: 54px;
+}
+
+.list {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+.listing {
+    display: block;
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0px 20px;
+    color: #FFFFFF;
+}
+
+.header {
+    position: absolute;
+    width: 777.51px;
+    height: 224.47px;
+    left: 133.34px;
+    top: 200px;
+    font-family: "Brygada 1918";
+    font-size: 96px;
+    font-weight: 700;
+    line-height: 112px;
+    color: #FFFFFF;
+}
+
+.words {
+    position: absolute;
+    width: 510.76px;
+    height: 49.24px;
+    left: 140px;
+    top: 520px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    color: #FFFFFF;
+}
+
+.order {
+    position: absolute;
+    width: 301.66px;
+    height: 88.45px;
+    left: 133.34px;
+    top: 660px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.food {
+    position: absolute;
+    width: 590px;
+    height: 780px;
+    left: 829px;
+    top: 308.76px;
+}
+
+.chandu {
+    position: absolute;
+    width: 580.22px;
+    height: 226.3px;
+    left: 400px;
+    top: 992.95px;
+}
+
+.introduce {
+    position: absolute;
+    width: 904.19px;
+    height: 227.04px;
+    left: 230px;
+    top: 1273.17px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #344235;
+}
+
+.menu {
+    position: absolute;
+    width: 1400px;
+    height: 1214.6px;
+    left: 0px;
+    top: 1630.13px;
+    background-color: #344235;
+}
+
+.items {
+    position: absolute;
+    width: 1135px;
+    height: 133px;
+    left: 162px;
+    top: 140px;
+    font-family: 'Brygada 1918';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 112px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.all {
+    position: absolute;
+    width: 1186px;
+    height: 655px;
+    left: 127px;
+    top: 340px;
+}
+
+.foods {
+    width: 360px;
+    height: 270px;
+    margin: 0px 32px 100px 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.more {
+    position: absolute;
+    width: 217px;
+    height: 63.63px;
+    left: 600px;
+    top: 1080px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    }
+
+.foodie {
+    position: absolute;
+    width: 1400px;
+    height: 660px;
+    left: 0px;
+    top: 2835px;
+}
+
+.us {
+    position: absolute;
+    width: 1135px;
+    height: 133px;
+    left: 162px;
+    top: 2950px;
+    font-family: 'Brygada 1918';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 112px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.box1 {
+    position: absolute;
+    width: 240px;
+    height: 180px;
+    left: 300px;
+    top: 3146px;
+    background-color: #F9F5F2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.icon1 {
+    position: absolute;
+    left: 100px;
+    top: 20px;
+    width: 35px;
+    height: 35px;
+}
+
+.day {
+    position: absolute;
+    width: 213.51px;
+    height: 47.34px;
+    left: 15px;
+    top: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #344235;
+}
+
+.operate {
+    position: absolute;
+    width: 135.99px;
+    height: 19.73px;
+    left: 56px;
+    top: 130px;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #6A8274;
+}
+
+.box2 {
+    position: absolute;
+    width: 240px;
+    height: 180px;
+    left: 600px;
+    top: 3146px;
+    background-color: #F9F5F2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.icon2 {
+    position: absolute;
+    left: 100px;
+    top: 20px;
+    width: 35px;
+    height: 35px;
+}
+
+.place {
+    position: absolute;
+    width: 213.51px;
+    height: 47.34px;
+    left: 15px;
+    top: 54px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #344235;
+}
+
+.locate {
+    position: absolute;
+    width: 103.85px;
+    height: 19.73px;
+    left: 70px;
+    top: 130px;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #6A8274;
+}
+
+.box3 {
+    position: absolute;
+    width: 240px;
+    height: 180px;
+    left: 900px;
+    top: 3146px;
+    background-color: #F9F5F2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.icon3 {
+    position: absolute;
+    left: 100px;
+    top: 20px;
+    width: 35px;
+    height: 35px;
+}
+
+.call {
+    position: absolute;
+    width: 213.51px;
+    height: 47.34px;
+    left: 15px;
+    top: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #344235;
+}
+
+.online {
+    position: absolute;
+    width: 85.49px;
+    height: 19.73px;
+    left: 80px;
+    top: 130px;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #6A8274;
+}
+
+.copyright {
+    position: absolute;
+    width: 601px;
+    height: 20px;
+    left: 26px;
+    top: 3530px;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #6A8274;
+}
+
+.icons1 {
+    position: absolute;
+    width: 42px;
+    height: 51px;
+    top: 3528px;
+    left: 1100px;
+}
+
+.icons2 {
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    top: 3520px;
+    left: 1200px;
+}
+
+.icons3 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 3522px;
+    left: 1310px;
+}

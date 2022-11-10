@@ -1,0 +1,47 @@
+.title{
+    font-size: 80px;
+    font-family: Brygada 1918;
+    color: #F9F5F2;
+}
+
+.big{
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 600;
+    color: #FEF8E6;
+}
+
+.small{
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 400;
+    color: #FEF8E6;
+}
+
+.date{
+    width: 440px;
+    height: 90px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    font-size: 32px;
+}
+
+.reset{
+    background: transparent;
+    font-family: Montserrat;
+    font-size: 24px;
+    border: none;
+    color: #FEF8E6;
+    text-decoration: underline;
+}
+
+.text{
+    width: 440px;
+    height: 90px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    font-size: 32px;
+    vertical-align:middle;
+}

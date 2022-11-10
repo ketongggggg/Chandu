@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reservation</title>
+    <link rel="stylesheet" href="css/reservation.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
+</head>
+    <body style="background-color: #344235;">
+        <p style="text-align:center;"><img src = "images/logo2.png"  width="370" height="243.92"></p>
+        <p style="text-align:center;" class="title" >Your Reservation!</p>
+        <hr width="750px">
+        <p style="text-align:center;" class="big">Online RSVPs will only be accepted Max 3 hours before dining</p>
+        <form action="done.html">
+        <table align="center" width="994px" height="849px">
+            <tr height="39px">
+                <td width="554px" class="small">Date of Booking </td>
+                <td width="440px" class="small">Time</td>
+            </tr>
+            <tr height="198px">
+                <td width="554px" valign = "top"><input class="date" type="date" id="start" name="bookingdate" value="yyyy-mm-dd" ></td>
+                <td width="440px" valign = "top"><input class="text" type="text" name="time"></td>
+            </tr>
+            <tr height="39px">
+                <td width="554px" class="small">Name</td>
+                <td width="440px" class="small">Phone Number</td>
+            </tr>
+            <tr height="198px">
+                <td width="554px" valign = "top"><input class="text" type="text" name="name"></td>
+                <td width="440px" valign = "top"><input class="text" type="text" name="phonenum"></td>
+            </tr>
+            <tr height="39px">
+                <td width="554px" class="small">Number of Guests</td>
+                <td width="440px" class="small">Any Special Request?</td>
+            </tr>
+            <tr height="198px">
+                <td width="554px" valign = "top"><input class="text" type="text" name="numofguests"></td>
+                <td width="440px" valign = "top"><input class="text" type="text" name="requests"></td>
+            </tr>
+            <tr>
+                <td align="center" colspan = "2"><input type="image" src="images/submit.png" width="220" height="65"/></td>
+            </tr>
+            <tr>
+                <td align="center" colspan = "2"><input type="reset" value="Clear form" class="reset">
+            </tr>
+        </table>
+        </form>
+    </body>
+</html>

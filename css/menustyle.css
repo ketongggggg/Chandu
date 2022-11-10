@@ -1,0 +1,342 @@
+.background {
+    width: 1300px;
+    background-color: #FFFFFF;
+}
+
+.close {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1350px;
+    top: 30px;
+}
+
+.menu {
+    position: absolute;
+    width: 1400px;
+    height: 680px;
+    left: 0px;
+    top: 0px;
+}
+
+.words {
+    position: absolute;
+    width: 423.68px;
+    height: 112.24px;
+    left: 500px;
+    top: 220px;
+    font-family: 'Brygada 1918';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 140px;
+    line-height: 164px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 10px;
+    color: #FFFFFF;
+}
+
+.never {
+    position: absolute;
+    width: 396.29px;
+    height: 49.24px;
+    left: 490px;
+    top: 340px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.bg {
+    position: absolute;
+    width: 1400px;
+    height: 3000px;
+    left: 0px;
+    top: 680px;
+    background-color: #344235;
+}
+
+.rice {
+    position: absolute;
+    width: 650px;
+    height: 49px;
+    left: 360px;
+    top: 100px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.ricee {
+    position: absolute;
+    width: 1186px;
+    height: 655px;
+    left: 100px;
+    top: 200px;
+}
+
+.riceee {
+    width: 246px;
+    height: 350px;
+    margin: 0px 70px;
+}
+
+.rice1 {
+    position: absolute;
+    width: 415px;
+    height: 44px;
+    left: 90px;
+    top: 580px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.rice2 {
+    position: absolute;
+    width: 415px;
+    height: 44px;
+    left: 480px;
+    top: 580px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.rice3 {
+    position: absolute;
+    width: 415px;
+    height: 44px;
+    left: 870px;
+    top: 580px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.noodle {
+    position: absolute;
+    width: 650px;
+    height: 49px;
+    left: 360px;
+    top: 800px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.noodles {
+    position: absolute;
+    width: 1186px;
+    height: 655px;
+    left: 100px;
+    top: 910px;
+}
+
+.noodless {
+    width: 246px;
+    height: 350px;
+    margin: 0px 70px;
+}
+
+.noodle1 {
+    position: absolute;
+    width: 415px;
+    height: 44px;
+    left: 80px;
+    top: 1290px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.noodle2 {
+    position: absolute;
+    width: 415px;
+    height: 44px;
+    left: 470px;
+    top: 1290px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.noodle3 {
+    position: absolute;
+    width: 415px;
+    height: 44px;
+    left: 860px;
+    top: 1290px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.snack {
+    position: absolute;
+    width: 650px;
+    height: 49px;
+    left: 360px;
+    top: 1520px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.snacks {
+    position: absolute;
+    width: 1186px;
+    height: 655px;
+    left: 100px;
+    top: 1630px;
+}
+
+.snackss {
+    width: 246px;
+    height: 350px;
+    margin: 0px 70px;
+}
+
+.snack1 {
+    position: absolute;
+    width: 415px;
+    height: 44px;
+    left: 90px;
+    top: 2000px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.snack2 {
+    position: absolute;
+    width: 415px;
+    height: 44px;
+    left: 470px;
+    top: 2000px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.snack3 {
+    position: absolute;
+    width: 415px;
+    height: 44px;
+    left: 870px;
+    top: 2000px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.drink {
+    position: absolute;
+    width: 650px;
+    height: 49px;
+    left: 360px;
+    top: 2200px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.drinks {
+    position: absolute;
+    width: 1186px;
+    height: 655px;
+    left: 100px;
+    top: 2300px;
+}
+
+.drinkss {
+    width: 246px;
+    height: 350px;
+    margin: 0px 70px;
+    border-radius: 10px;;
+}
+
+.drink1 {
+    position: absolute;
+    width: 415px;
+    height: 44px;
+    left: 90px;
+    top: 2680px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.drink2 {
+    position: absolute;
+    width: 415px;
+    height: 44px;
+    left: 470px;
+    top: 2680px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.drink3 {
+    position: absolute;
+    width: 415px;
+    height: 44px;
+    left: 860px;
+    top: 2680px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}

@@ -1,0 +1,35 @@
+.background {
+    position: absolte;
+    height: 800px;
+    background-color: #344235;
+}
+
+.title{
+    font-size: 80px;
+    font-family: Brygada 1918;
+    color: #F9F5F2;
+}
+
+.text{
+    width: 440px;
+    height: 90px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    font-size: 32px;
+    vertical-align: middle;
+}
+
+.back{
+    background: #6A8274;
+    font-family: Montserrat;
+    font-size: 33px;
+    font-weight: 500;
+    border: none;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #FEF8E6;
+    padding: 15px 32px;  
+    cursor: pointer;
+}

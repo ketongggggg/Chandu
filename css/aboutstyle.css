@@ -1,0 +1,104 @@
+.background {
+    position: absolute;
+    width: 1300px;
+    left: 0;
+    top: 0;
+    background: #FFFFFF;
+}
+
+.close {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 30px;
+    left: 1360px;
+}
+
+.about {
+    position: absolute;
+    width: 1400px;
+    height: 680px;
+    left: 0px;
+    top: 0px;
+}
+
+.aboutus {
+    position: absolute;
+    width: 423.68px;
+    height: 112.24px;
+    left: 520px;
+    top: 300px;
+    font-family: 'Brygada 1918';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 90px;
+    color: #FFFFFF;
+}
+
+.never {
+    position: absolute;
+    width: 396.29px;
+    height: 49.24px;
+    left: 500px;
+    top: 400px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.testimonials {
+    position: absolute;
+    width: 396.29px;
+    height: 49.24px;
+    left: 500px;
+    top: 780px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center;
+    color: #344235;
+}
+
+.cmmt {
+    position: absolute;
+    width: 1186px;
+    height: 655px;
+    left: 120px;
+    top: 900px;
+}
+
+.cmmts {
+    width: 246px;
+    height: 350px;
+    margin: 0px 70px;
+}
+
+.cmmtt {
+    position: absolute;
+    width: 1186px;
+    height: 655px;
+    left: 120px;
+    top: 1400px;
+}
+
+.write {
+    position: absolute;
+    width: 350px;
+    height: 65px;
+    left: 524px;
+    top: 1880px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #344235;
+    background-color: #F9F5F2;
+    border-radius: 10px;
+    border: transparent;
+}
